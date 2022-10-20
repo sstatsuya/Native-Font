@@ -15,5 +15,6 @@ module.exports = {
 <li>Run <code>npx react-native link</code></li>
 <li>Restart App</li>
 <li>Then use your font ex: fontFamily: 'font_name'</li>
-
+<br>
+<br>
 <b><i>If Build Failed for Duplicate Resouce, you need to remove those file ttf because it conflict with vector icon library</b></i>
