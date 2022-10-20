@@ -9,5 +9,6 @@ module.exports = {
   assets: ['./assets/fonts/', './assets/vector-icon-fonts/'],
 };
 </code>
+<li>Run <code>npx react-native link</code></li>
 <li>Restart App</li>
 <li>Then use your font ex: fontFamily: 'font_name'</li>
