@@ -11,7 +11,8 @@ module.exports = {
   assets: ['./assets/fonts'],
 };
 </code>
-<li><code>cd .\android\</code> <code>.\gradlew clean</code></li>
+<li><code>cd .\android\</code></li>
+<li><code>.\gradlew clean</code></li>
 <li>Run <code>npx react-native link</code></li>
 <li>Restart App</li>
 <li>Then use your font ex: fontFamily: 'font_name'</li>
