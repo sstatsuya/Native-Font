@@ -17,4 +17,4 @@ module.exports = {
 <li>Then use your font ex: fontFamily: 'font_name'</li>
 <br>
 <br>
-<b><i>If Build Failed for Duplicate Resouce, you need to remove those file ttf because it conflict with vector icon library</b></i>
+<b><i>If Build Failed for Duplicate Resouce, you need to remove those file ttf because it conflict with <a href="https://github.com/oblador/react-native-vector-icons">react-native-vector-icons package</a></b></i>
